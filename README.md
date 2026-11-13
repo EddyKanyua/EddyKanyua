@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Eddy Kanyua
-Full-stack developer specializing in React, Node.js and MongoDB(MERN).
+Full-stack developer in Nairobi, Kenya specializing in React, Node.js and MongoDB(MERN).
 Currently expanding expertise in scalable backend architecture and pursing a degree.
 👯 I’m looking to collaborate on projects, contracts and long-term software development.
 📫 How to reach me: devveddy0@gmail.com
