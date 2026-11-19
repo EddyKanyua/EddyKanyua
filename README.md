@@ -1,4 +1,4 @@
-## Hi there 👋
+https://devveddy.vercel.app/
 I'm Eddy Kanyua
 Full-stack developer in Nairobi, Kenya specializing in React, Node.js and MongoDB(MERN).
 Currently expanding expertise in scalable backend architecture and pursing a degree.
